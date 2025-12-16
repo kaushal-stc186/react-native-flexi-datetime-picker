@@ -1,0 +1,30 @@
+{
+  "name": "react-native-flexi-datetime-picker",
+  "version": "1.0.4",
+  "description": "All-in-one Date and Time picker for React Native. Combines react-native-flexi-date-selector and react-native-flexi-time-selector.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaushal-stc186/react-native-flexi-datetime-picker"
+  },
+  "keywords": [
+    "react-native",
+    "date-picker",
+    "time-picker",
+    "datetime-picker",
+    "calendar",
+    "modal",
+    "ios",
+    "android"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.70.0"
+  },
+  "dependencies": {
+    "react-native-flexi-date-selector": "*",
+    "react-native-flexi-time-selector": "*"
+  },
+  "sideEffects": false
+}
