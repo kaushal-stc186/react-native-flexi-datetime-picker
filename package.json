@@ -1,6 +1,6 @@
 {
   "name": "react-native-flexi-datetime-picker",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "All-in-one Date and Time picker for React Native. Combines react-native-flexi-date-selector and react-native-flexi-time-selector.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
