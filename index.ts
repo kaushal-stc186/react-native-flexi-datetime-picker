@@ -13,14 +13,14 @@ export type {
   MonthData,
   DateState,
   MarkedDates
-} from "react-native-flexi-date-selector/src/DatePicker/types";
+} from "react-native-flexi-date-selector";
 
 export type {
   TimePickerProps,
   TimePickerTheme,
   TimePickerStyles,
   TimeConfig
-} from "react-native-flexi-time-selector/src/TimePicker/types";
+} from "react-native-flexi-time-selector";
 
 import DatePicker from "react-native-flexi-date-selector";
 import TimePicker from "react-native-flexi-time-selector";
